@@ -1,0 +1,14 @@
+name: gpt3_chatbot
+description: A simple chatbot app using Flutter
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.12.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
